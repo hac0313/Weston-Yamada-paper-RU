@@ -1,0 +1,34 @@
+                           [bold]КОРПОРАЦИЯ ВЕСТОН-ЯМАДА[/bold]        [color=#ff0000]CL-8149[/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░░░[/color]▄███▌[color=#25b266]▌▄[/color][color=#1c8a4e]█▀[/color]▄██████████[/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░[/color]▄██[color=#d16d1f]██[/color]█▌[color=#1c8a4e]█▀[/color]▄██[color=#d16d1f]█▀[/color][/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌▄██[color=#d16d1f]█▀[/color][color=#1c8a4e]▄[/color][color=#d16d1f]▐[/color]█▌▄██[color=#d16d1f]█▀[/color][color=#EEEE]▄[/color]▐████████[/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]██[color=#d16d1f]█▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█[/color][color=#d16d1f]▐[/color]███[color=#d16d1f]█▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█[/color][/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color]
+                                   [bolditalic]"БУДУЩЕЕ НАСТУПИЛО"[/bolditalic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+
+[head=2]Запрос на перевод[/head]
+[bold]Куда:[/bold] Отдел корпоративных кадровых ресурсов
+[bold]Объект:[/bold] USS Alamyer
+[bold]Дата:[/bold] [form]
+
+
+[head=3]Личная информация и текущая должность:[/head]
+[bold]Имя:[/bold] [form]
+[bold]Звание:[/bold] [form]
+[bold]Должность:[/bold] [form]
+[bold]Возраст:[/bold] [form]
+[bold]Заработная плата:[/bold] [form]
+[bold]Код-авторизации:[/bold] [form]
+
+[head=3]Детали перевода:[/head]
+[bold]Желаемая должность:[/bold] [form]
+[bold]Желаемая установка:[/bold] [form]
+[bold]Есть ли у вас необходимые навыки и подготовка для этой должности?:[/bold] [form]
+[bold]Причина(ы) этого запроса:[/bold] [form]
+[bold](Необязательно) Дополнительные доказательства:[/bold] [form]
+[bold]Запрошенная дата перевода:[/bold] [form]
+
+[color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#AA8760][signature] | [italic]USS Almayer[/italic][/color].
+[color=#eb7a23][bolditalic]Вестон-Ямада[/color] Отдел корпоративных кадровых ресурсов[/bolditalic]
