@@ -1,0 +1,58 @@
+                           [bold]КОРПОРАЦИЯ ВЕСТОН-ЯМАДА[/bold]        [color=#ff0000]CL-404[/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░░░[/color]▄███▌[color=#25b266]▌▄[/color][color=#1c8a4e]█▀[/color]▄██████████[/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░[/color]▄██[color=#d16d1f]██[/color]█▌[color=#1c8a4e]█▀[/color]▄██[color=#d16d1f]█▀[/color][/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌▄██[color=#d16d1f]█▀[/color][color=#1c8a4e]▄[/color][color=#d16d1f]▐[/color]█▌▄██[color=#d16d1f]█▀[/color][color=#EEEE]▄[/color]▐████████[/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]██[color=#d16d1f]█▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█[/color][color=#d16d1f]▐[/color]███[color=#d16d1f]█▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█[/color][/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color]
+                                   [bolditalic]"БУДУЩЕЕ НАСТУПИЛО"[/bolditalic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+
+[head=2]Отчёт о положении объекта[/head]
+[bold]Куда:[/bold] Департамент специальных услуг
+[bold]Объект:[/bold] USS Alamyer
+[bold]Дата:[/bold] [form]
+
+
+[head=3]Общее состояние рядового состава:[/head]
+[bold]Кол-во персон:[/bold] [form]
+[bold]Специальность специалистов по вооружению:[/bold] [form]
+[bold]Имеются ли проблемы с укомплектованием (да/нет):[/bold] ([form])
+[bold]Имеются ли проблемы с моральным духом (да/нет):[/bold] ([form])
+[bold]Общая оценка:[/bold] [form]
+
+[head=3]Состояние медицинского департамента:[/head]
+[bold]Персонал:[/bold] [form]
+[bold]Медицинское оборудование:[/bold] [form]
+[bold]Руководитель:[/bold] [form]
+[bold]Общая оценка:[/bold] [form]
+
+[head=3]Состояние грузового департамента:[/head]
+[bold]Персонал:[/bold] [form]
+[bold]Оборудование на хранении:[/bold] [form]
+[bold]Бюджет:[/bold] [form]
+[bold]Руководитель:[/bold] [form]
+[bold]Общая оценка:[/bold] [form]
+
+[head=3]Состояние инженерного департамента:[/head]
+[bold]Персонал:[/bold] [form]
+[bold]Оснащённость инструментами:[/bold] [form]
+[bold]Имеется ли на хранении ключ перезарядки синтетиков (да/нет):[/bold] ([form])
+[bold]Руководитель:[/bold] [form]
+[bold]Общая оценка:[/bold] [form]
+
+[head=3]Информация о вспомогательной боевой поддержки:[/head]
+[bold]Персонал:[/bold] [form]
+[bold]Сколько дропшипов на вооружении:[/bold] [form]
+[bold]Модификации и вооружение на обоих дропшипах:[/bold] [form]
+[bold]Руководитель:[/bold] [form]
+[bold]Общая оценка:[/bold] [form]
+
+[head=3]Информация об офицерском составе на объекте:[/head]
+[bold]Персонал:[/bold] [form]
+[bold]Командир:[/bold] [form]
+[bold]Полный офицерский состав (да/нет):[/bold] ([form])
+[bold]Общая оценка:[/bold] [form]
+
+[color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#AA8760][signature] | [italic]USS Almayer[/italic][/color].
+[color=#eb7a23][bolditalic]Вестон-Ямада[/color] Департамент специальных услуг[/bolditalic]

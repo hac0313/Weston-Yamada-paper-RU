@@ -26,11 +26,11 @@
 [bold]Вариант формы:[/bold] [form]
 [bold]Тип формы:[/bold] [form]
 
-[bold]Подписано:[/bold] ([color=red][form][/color])
-[bold]Отказался подписывать:[/bold] ([color=red][form][/color])
-[bold]Утеряно:[/bold] ([color=red][form][/color])
-[bold]Уничтожено:[/bold] ([color=red][form][/color])
-[bold]Украдено:[/bold] ([color=red][form][/color])
+[bold]Подписано(Да/Нет):[/bold] ([color=red][form][/color])
+[bold]Отказался подписывать(Да/Нет):[/bold] ([color=red][form][/color])
+[bold]Утеряно(Да/Нет):[/bold] ([color=red][form][/color])
+[bold]Уничтожено(Да/Нет):[/bold] ([color=red][form][/color])
+[bold]Украдено(Да/Нет):[/bold] ([color=red][form][/color])
 ─────────────────────────────────────────
 [bold]Поветсовование:[/bold] [italic][form][/italic]
 

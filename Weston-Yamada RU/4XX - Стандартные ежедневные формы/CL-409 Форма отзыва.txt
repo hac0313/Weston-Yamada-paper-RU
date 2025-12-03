@@ -8,27 +8,27 @@
 
 [head=3]Раздел 1: Оборудование[/head]
 Я считаю, что оборудование, производимое корпорацией "Вестон-Ямада", является:
-[mono][bullet] Отличным \[[bold]*[/bold]]
-[bullet] Удовлетворительно \[[bold]*[/bold]]
-[bullet] Плохое \[[bold]*[/bold]]
+[mono][bullet] Отличным \[[bold][form][/bold]]
+[bullet] Удовлетворительно \[[bold][form][/bold]]
+[bullet] Плохое \[[bold][form][/bold]]
 [/mono]
      [italic] Обоснование: [/italic][color=#1b67a5] [form][/color]
 
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [head=3]Раздел 2: Работа связного [/head]
-Я нахожу действия и услуги корабельного корпоративного связного, [bolditalic][color=#25b266](ВПИШИТЕ ИМЯ)[/color][/bolditalic], следующими:
-[mono][bullet] Отлично \[[bold]*[/bold]]
-[bullet] Удовлетворительно \[[bold]*[/bold]]
-[bullet] Плохо \[[bold]*[/bold]]
+Я нахожу действия и услуги корабельного корпоративного связного, следующими:
+[mono][bullet] Отлично \[[bold][form][/bold]]
+[bullet] Удовлетворительно \[[bold][form][/bold]]
+[bullet] Плохо \[[bold][form][/bold]]
 [/mono]
      [italic] Обоснование: [/italic][color=#1b67a5] [form][/color]
 
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [head=3]Раздел 3: Корпоративное поведение [/head]
 Поведение корпорации "Вестон-Ямада" и ее персонала я оцениваю как:
-[mono][bullet] Отлично \[[bold]*[/bold]]
-[bullet] Удовлетворительно \[[bold]*[/bold]]
-[bullet] Плохо \[[bold]*[/bold]]
+[mono][bullet] Отлично \[[bold][form][/bold]]
+[bullet] Удовлетворительно \[[bold][form][/bold]]
+[bullet] Плохо \[[bold][form][/bold]]
 [/mono]
      [italic]Обоснование:[/italic][color=#1b67a5] [form][/color]
 
